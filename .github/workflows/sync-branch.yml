@@ -7,7 +7,7 @@ on:
 
 jobs:
   sync-branch:
-    name: Update v1 branch
+    name: Update main branch
     runs-on: ubuntu-latest
     permissions:
       contents: write
